@@ -1,0 +1,15 @@
+C:\Users\advic\Desktop\Ji\bin\Debug\net6.0\Ji.exe
+C:\Users\advic\Desktop\Ji\bin\Debug\net6.0\Ji.deps.json
+C:\Users\advic\Desktop\Ji\bin\Debug\net6.0\Ji.runtimeconfig.json
+C:\Users\advic\Desktop\Ji\bin\Debug\net6.0\Ji.dll
+C:\Users\advic\Desktop\Ji\bin\Debug\net6.0\Ji.pdb
+C:\Users\advic\Desktop\Ji\obj\Debug\net6.0\Ji.csproj.AssemblyReference.cache
+C:\Users\advic\Desktop\Ji\obj\Debug\net6.0\Ji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\advic\Desktop\Ji\obj\Debug\net6.0\Ji.AssemblyInfoInputs.cache
+C:\Users\advic\Desktop\Ji\obj\Debug\net6.0\Ji.AssemblyInfo.cs
+C:\Users\advic\Desktop\Ji\obj\Debug\net6.0\Ji.csproj.CoreCompileInputs.cache
+C:\Users\advic\Desktop\Ji\obj\Debug\net6.0\Ji.dll
+C:\Users\advic\Desktop\Ji\obj\Debug\net6.0\refint\Ji.dll
+C:\Users\advic\Desktop\Ji\obj\Debug\net6.0\Ji.pdb
+C:\Users\advic\Desktop\Ji\obj\Debug\net6.0\Ji.genruntimeconfig.cache
+C:\Users\advic\Desktop\Ji\obj\Debug\net6.0\ref\Ji.dll
